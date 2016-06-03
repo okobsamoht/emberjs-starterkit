@@ -19,8 +19,3 @@ To get started:
 - add CSS to `css/style.css`.
 
 - run `index.html` in your browser.
-
-Contact
-====
-
-[www.emberjs.com](http://www.emberjs.com)
